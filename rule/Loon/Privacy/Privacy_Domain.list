@@ -1,11 +1,11 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-10 10:21:54
+# UPDATED: 2021-05-14 00:24:18
 # DOMAIN: 19
-# DOMAIN-SUFFIX: 9443
+# DOMAIN-SUFFIX: 9442
 # IP-CIDR: 6
-# TOTAL: 9468
+# TOTAL: 9467
 hm.baidu.com
 hmma.baidu.com
 js.users.51.la
@@ -9240,7 +9240,6 @@ zgsdk.zhugeio.com
 .wklwyt.springer.com
 .wknd.ai
 .wkpjgh.toysrus.pt
-.wl.spotify.com
 .wla.vivaldi.com
 .wlkojk.orange.ro
 .wlptux.habitaclia.com
