@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-16 02:21:46
+# UPDATED: 2021-05-17 02:23:40
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 79
-# DOMAIN-SUFFIX: 75175
-# DOMAIN: 14373
+# DOMAIN-SUFFIX: 75189
+# DOMAIN: 14360
 # IP-CIDR: 253
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 90183
+# TOTAL: 90184
 0.up.qingdaonews.com
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -77,7 +77,6 @@
 12xhardcore.com
 138shenbosbo.com
 13903825045.com
-13932685557.cn
 140proof.com
 14119276be0852.com
 1464124271.rsc.cdn77.org
@@ -136,7 +135,6 @@
 24tradeplus.com
 24x7mediaworks.com
 274a717d311ac90f.com
-27simn888.com
 28.securefinds2.com
 290684.en.world-stone.com
 2amsports.com
@@ -1839,7 +1837,6 @@ avppet.com
 avtoizkorei.com
 avventureboreali.com
 awakeningthenations.com
-awgsmfzrslcp.com
 axilcross.com
 axis-advisors.com
 axisbuild.com
@@ -3854,7 +3851,6 @@ dell.touchcommerce.com
 delta-boa.com
 delta.icubeswire.com
 delta.rspcdn.com
-deltadisseny.com
 deltagreens.org
 deluxechoc.com
 deluxesave.com
@@ -5210,7 +5206,6 @@ france.get4games.com
 francescoalfonsi.com
 franklynmedical.com
 franksmission.com
-fraud-payment.com
 frauschmip.com
 fraziersconcrete.com
 frbdental.com
@@ -5489,7 +5484,6 @@ gabeandkathy.com
 gabecsgo.com
 gabionduvar.com
 gadgetshunts.com
-gagerocks.com
 gaiaidea.com
 gaihotnhat18.byethost7.com
 gainrecord.com
@@ -5933,7 +5927,6 @@ grandtheftauto5hacks.com
 graph.accountkit.com
 graph.instagram.com
 graphics.streamray.com
-graphicsolutionsok.com
 graspoffers.com
 gratis-sexkontakte.com
 gratisvps.net
@@ -6119,7 +6112,6 @@ hackappz.com
 hackcheatz.com
 hackclash.com
 hackclashclans.com
-hackclashofclan.com
 hackclashofclans.com
 hackcrackkeygenteam.com
 hackcreator.com
@@ -6171,7 +6163,6 @@ hackprivate.com
 hackreleases.com
 hackrobot.net
 hacks-box.com
-hacks-games.com
 hacks-house.com
 hacks-land.net
 hacks4apps.com
@@ -6243,7 +6234,6 @@ halo4.filesforgames.com
 halo77.com
 haltgame.com
 handbagcom.skimlinks.com
-handicapvantoday.com
 handjpharma.com
 handyarchive.com
 handymend.com
@@ -7322,7 +7312,6 @@ kaideemark.com
 kajglobal.com
 kakablog.net
 kalantzis.net
-kalinston.com
 kalo.onvid.xyz
 kalorsystem.com
 kalyanglobal.com
@@ -8546,7 +8535,6 @@ mobile.dk99999.com
 mobile.jq236.com
 mobile.onlyhookup.com
 mobile.whitelabelpros.com
-mobileactive.com
 mobileadvertisinghub.com
 mobilegamehackers.com
 mobilehacks.net
@@ -10638,7 +10626,6 @@ root--servers.org
 rosariaproducciones.com
 rosemarieevents.com
 rot2.imoti.net
-rotaryeclubcoastal.org
 rotator.7x3.net
 rotator.axiatraders.com
 rotator.beginads.com
@@ -11869,6 +11856,7 @@ stitchandswitch.com
 stitchgrrl.com
 stlouis.sla.org
 stmatthewsnj.org
+stnitro.com
 stocktwists.com
 stop-sign.com
 stopmeagency.free.fr
@@ -12681,7 +12669,6 @@ trader.erosdlz.com
 traderockets.com
 tradersbrokers.com
 tradingcsgo.com
-traff1.com
 traffic-offers.com
 traffic.mindviz.com
 traffic.tcmagnet.com
@@ -14219,6 +14206,7 @@ yourofferpro.com
 youronlinesoft.com
 yourperlebleue.com
 yourps34free.com
+yourstats.net
 yourtrustedhacks.com
 yousendit.inq.com
 yousendit.touchcommerce.com
@@ -14265,7 +14253,6 @@ z4yp9a.qygs08.cn
 za-music.mymobiplanet.com
 zagamers.com
 zahrachem.com
-zakupeo.com
 zaloapp.com
 zam.horizonbeverage.org
 zambianvacation.com
@@ -14504,7 +14491,6 @@ zzz.clickbank.net
 .0727vjdl.xyz
 .0728w.cn
 .073c0cec65916314a.com
-.0748d0112a4fb.com
 .0755man.cn
 .0756j.com
 .0756sjlm.com.cn
@@ -15414,7 +15400,6 @@ zzz.clickbank.net
 .3.guidaye.com
 .3.ssqzj.com
 .300ca0d0.space
-.30104fd89dc.com
 .301848.com
 .301pk.com
 .302a67cac6.com
@@ -23324,6 +23309,7 @@ zzz.clickbank.net
 .ailtumty.net
 .ailwayssteverin.info
 .aim4media.com
+.aima.shouhome.com
 .aima.weathercn.com
 .aimamparc.club
 .aimaniape.club
@@ -24113,6 +24099,7 @@ zzz.clickbank.net
 .analytics.explus.vn
 .analytics.ext.go-tellm.com
 .analytics.facebook.com
+.analytics.faceitanalytics.com
 .analytics.fairfax.com.au
 .analytics.favcy.com
 .analytics.faw.sky.com
@@ -27660,7 +27647,6 @@ zzz.clickbank.net
 .besocial.online
 .besstahete.info
 .best-cargo.ru
-.best-cdn.pl
 .best-hir.com
 .best-search.cc
 .best-top.de
@@ -27765,6 +27751,7 @@ zzz.clickbank.net
 .betemolgar.com
 .betendads.com
 .bethoy.es
+.beticithy.com
 .betimbur.com
 .betimogolef.com
 .betjeyxf.com
@@ -30071,7 +30058,6 @@ zzz.clickbank.net
 .carpentercomparison.com
 .carpenterrprp.com
 .carpetusiko.club
-.carrel.services
 .carreras.unisabana.edu.co
 .carriagecan.com
 .carrier.bz
@@ -34034,6 +34020,7 @@ zzz.clickbank.net
 .cubicmedia.net
 .cubics.com
 .cuckoo.minaexplorer.com
+.cuckooretire.com
 .cudaojia.com
 .cue4you.nl
 .cuebiq.com
@@ -40012,7 +39999,6 @@ zzz.clickbank.net
 .f17a5ff6bf31.com
 .f185cefa37b1806e.com
 .f18a35cc33ee29a.com
-.f18ea5c9f46a.com
 .f1c.i.biquge5200.com
 .f1f60d2ef1a4ed.com
 .f1t5pb.cn
@@ -40844,6 +40830,7 @@ zzz.clickbank.net
 .finized.co
 .finkyepbows.com
 .finley.finleyusa.com
+.fintechpi.com
 .fioe.info
 .fiorenetwork.com
 .fioricet-online.blogspot.com
@@ -45516,6 +45503,7 @@ zzz.clickbank.net
 .hljhufengling.cn
 .hljyjm.cn
 .hlmiq.com
+.hlpidkr.ru
 .hlpnowp-c.com
 .hlrcv.stage.adobe.com
 .hlserve.com
@@ -49612,6 +49600,7 @@ zzz.clickbank.net
 .jsgo979.com
 .jshkyh.29cm.co.kr
 .jshonghuadq.com
+.jshosting.bid
 .jshosting.do
 .jshosting.re
 .jshosting.science
@@ -49865,6 +49854,7 @@ zzz.clickbank.net
 .jxbmrxbqf.com
 .jxbtl.com
 .jxculb.com
+.jxczy.cn
 .jxdown.com
 .jxdzoy.cn
 .jxfxsw.com
@@ -50330,6 +50320,7 @@ zzz.clickbank.net
 .khermesi.ru
 .khesino.ru
 .khewwakrywmgxr.com
+.khg.xinrongblg.com
 .khg97644rvbg.com
 .khgj.cn
 .khidhfrk.com
@@ -53199,6 +53190,7 @@ zzz.clickbank.net
 .luisardo.com
 .lulpolopolo.com
 .lulumao.com.cn
+.lumanajaska.ml
 .lumatag.co.uk
 .lumberamount.com
 .lumeo.cn
@@ -53490,6 +53482,7 @@ zzz.clickbank.net
 .m.cbeif.com
 .m.cdxtny.cn
 .m.cenrs.com
+.m.cepga.cn
 .m.cfanm.com
 .m.chenhuia.com
 .m.cjjcby.cn
@@ -55000,7 +54993,6 @@ zzz.clickbank.net
 .mcmhatmt.com
 .mcninc.cn
 .mcnt.jp
-.mconedh.cn
 .mcontigo.com
 .mcopolice.com
 .mcore.vcgame.cn
@@ -56634,6 +56626,7 @@ zzz.clickbank.net
 .minaconfli.top
 .minanjiaoyu.com
 .minardict.pro
+.mincure-ad.com
 .minden-egyben.com
 .mindenbenegyblog.hu
 .mindenegyben-blog.net
@@ -57303,6 +57296,7 @@ zzz.clickbank.net
 .momenturede.fun
 .momijoy.ru
 .momotaro.craigmod.com
+.momwentthere.cf
 .momzs.com
 .mon-va.byteoversea.com
 .mon.byteoversea.com
@@ -58137,6 +58131,7 @@ zzz.clickbank.net
 .mygiftresource.com
 .mygoodlives.com
 .mygreatrewards.com
+.mygtmn.com
 .myharavan.com
 .myhard.com
 .myhitbox.com
@@ -58157,6 +58152,7 @@ zzz.clickbank.net
 .mylikechat.com
 .mylink-today.com
 .mylinkbox.com
+.mylovelymommy.tk
 .mymediarecommendations.com
 .mymoneymakingapp.com
 .mynagor.com
@@ -61260,6 +61256,7 @@ zzz.clickbank.net
 .ooxxsearch.com
 .oozing.co
 .op-drive-sto.carrefour.fr
+.op.88dush.com
 .opaalopaa.com
 .opads.us
 .opai.red
@@ -62417,6 +62414,7 @@ zzz.clickbank.net
 .pascal1.science
 .pasco.cc
 .paservices.tech
+.paslsa.com
 .pasoherb.gq
 .pass-1234.com
 .pass.1688.com
@@ -63082,6 +63080,7 @@ zzz.clickbank.net
 .phortaub.com
 .photo-ads.zaloapp.com
 .photo.188kc.cn
+.photo.941ziyuan.cn
 .photo.backerbiotech.cn
 .photo.bjdfhy.cn
 .photo.dhford.cn
@@ -66659,6 +66658,7 @@ zzz.clickbank.net
 .rcqiho.emp.de
 .rcsadv.it
 .rcsmetrics.it
+.rctfgrazkha.ru
 .rcurn.com
 .rcv.iclicash.com
 .rcvhzfcnja.com
@@ -75227,6 +75227,7 @@ zzz.clickbank.net
 .stats.proff.no
 .stats.propublica.org
 .stats.pselookup.vrymel.com
+.stats.pstream.net
 .stats.pusher.com
 .stats.qawl.app
 .stats.qbitstore.nl
@@ -75791,6 +75792,7 @@ zzz.clickbank.net
 .subiz.net
 .subiz.xyz
 .sublimemedia.net
+.subloader.cf
 .submarinebarbecueemigrant.com
 .submarineundergonedebark.com
 .submissing.com
@@ -85841,7 +85843,6 @@ zzz.clickbank.net
 .www.jquerrycdn.download
 .www.jqwww.download
 .www.jrhayley.plus.com
-.www.jshosting.bid
 .www.jshosting.date
 .www.jshosting.download
 .www.jshosting.faith
