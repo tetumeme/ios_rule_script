@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-18 02:25:31
-# DOMAIN-SUFFIX: 69929
+# UPDATED: 2021-05-19 02:25:53
+# DOMAIN-SUFFIX: 69935
 # DOMAIN: 75
 # IP-CIDR: 57
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 70075
+# TOTAL: 70081
 payload:
   - DOMAIN,265.com
   - DOMAIN,2mdn.net
@@ -7840,6 +7840,7 @@ payload:
   - DOMAIN-SUFFIX,98.com
   - DOMAIN-SUFFIX,9800.com
   - DOMAIN-SUFFIX,980cje.com
+  - DOMAIN-SUFFIX,98158.com
   - DOMAIN-SUFFIX,98201111.com
   - DOMAIN-SUFFIX,9823df.com
   - DOMAIN-SUFFIX,9831.com
@@ -8661,7 +8662,6 @@ payload:
   - DOMAIN-SUFFIX,agucn.com
   - DOMAIN-SUFFIX,aguo.com
   - DOMAIN-SUFFIX,agxs.net
-  - DOMAIN-SUFFIX,agxsw.com
   - DOMAIN-SUFFIX,ah-inter.com
   - DOMAIN-SUFFIX,ah-px.com
   - DOMAIN-SUFFIX,ah12333.com
@@ -18217,6 +18217,7 @@ payload:
   - DOMAIN-SUFFIX,creke.net
   - DOMAIN-SUFFIX,creo-support.com
   - DOMAIN-SUFFIX,crestgps.com
+  - DOMAIN-SUFFIX,crestv.com
   - DOMAIN-SUFFIX,crewcn.com
   - DOMAIN-SUFFIX,crfchina.com
   - DOMAIN-SUFFIX,crfly.com
@@ -27412,7 +27413,6 @@ payload:
   - DOMAIN-SUFFIX,haers.com
   - DOMAIN-SUFFIX,haguan.com
   - DOMAIN-SUFFIX,haguotu.com
-  - DOMAIN-SUFFIX,haguro.moe
   - DOMAIN-SUFFIX,haguworld.com
   - DOMAIN-SUFFIX,haha168.com
   - DOMAIN-SUFFIX,haha33.com
@@ -30085,6 +30085,7 @@ payload:
   - DOMAIN-SUFFIX,huajianmed.com
   - DOMAIN-SUFFIX,huajiao.com
   - DOMAIN-SUFFIX,huajie8.com
+  - DOMAIN-SUFFIX,huajifen.com
   - DOMAIN-SUFFIX,huajin100.com
   - DOMAIN-SUFFIX,huajing-inf.com
   - DOMAIN-SUFFIX,huajingsec.com
@@ -47064,6 +47065,7 @@ payload:
   - DOMAIN-SUFFIX,qhlingwang.com
   - DOMAIN-SUFFIX,qhlly.com
   - DOMAIN-SUFFIX,qhm123.com
+  - DOMAIN-SUFFIX,qhmanhua.com
   - DOMAIN-SUFFIX,qhmhbkj.com
   - DOMAIN-SUFFIX,qhmsg.com
   - DOMAIN-SUFFIX,qhnews.com
@@ -47630,6 +47632,7 @@ payload:
   - DOMAIN-SUFFIX,qixiwl.com
   - DOMAIN-SUFFIX,qixoo.com
   - DOMAIN-SUFFIX,qixunka.com
+  - DOMAIN-SUFFIX,qiyabi.vip
   - DOMAIN-SUFFIX,qiye.la
   - DOMAIN-SUFFIX,qiye.net
   - DOMAIN-SUFFIX,qiye163.com
@@ -53518,6 +53521,7 @@ payload:
   - DOMAIN-SUFFIX,sursenelec.com
   - DOMAIN-SUFFIX,sursung.com
   - DOMAIN-SUFFIX,surtime.com
+  - DOMAIN-SUFFIX,suruicloud.com
   - DOMAIN-SUFFIX,survey-y.com
   - DOMAIN-SUFFIX,surveyhills.com
   - DOMAIN-SUFFIX,surveyunion.com
@@ -60326,6 +60330,7 @@ payload:
   - DOMAIN-SUFFIX,wlstock.com
   - DOMAIN-SUFFIX,wlsvt.com
   - DOMAIN-SUFFIX,wltieyaoban.com
+  - DOMAIN-SUFFIX,wlxit.com
   - DOMAIN-SUFFIX,wlxmall.com
   - DOMAIN-SUFFIX,wlxww.com
   - DOMAIN-SUFFIX,wlyfw.com
@@ -66174,6 +66179,7 @@ payload:
   - DOMAIN-SUFFIX,yswh.com
   - DOMAIN-SUFFIX,yswhy.com
   - DOMAIN-SUFFIX,yswlgame.com
+  - DOMAIN-SUFFIX,yswliot.com
   - DOMAIN-SUFFIX,yswpq.com
   - DOMAIN-SUFFIX,yswxcn.com
   - DOMAIN-SUFFIX,ysx8.com

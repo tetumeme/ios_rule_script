@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-18 02:25:31
-# DOMAIN-SUFFIX: 69929
+# UPDATED: 2021-05-19 02:25:53
+# DOMAIN-SUFFIX: 69935
 # DOMAIN: 75
 # IP-CIDR: 57
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 70075
+# TOTAL: 70081
 payload:
   - '265.com'
   - '2mdn.net'
@@ -7840,6 +7840,7 @@ payload:
   - '.98.com'
   - '.9800.com'
   - '.980cje.com'
+  - '.98158.com'
   - '.98201111.com'
   - '.9823df.com'
   - '.9831.com'
@@ -8661,7 +8662,6 @@ payload:
   - '.agucn.com'
   - '.aguo.com'
   - '.agxs.net'
-  - '.agxsw.com'
   - '.ah-inter.com'
   - '.ah-px.com'
   - '.ah12333.com'
@@ -18217,6 +18217,7 @@ payload:
   - '.creke.net'
   - '.creo-support.com'
   - '.crestgps.com'
+  - '.crestv.com'
   - '.crewcn.com'
   - '.crfchina.com'
   - '.crfly.com'
@@ -27412,7 +27413,6 @@ payload:
   - '.haers.com'
   - '.haguan.com'
   - '.haguotu.com'
-  - '.haguro.moe'
   - '.haguworld.com'
   - '.haha168.com'
   - '.haha33.com'
@@ -30085,6 +30085,7 @@ payload:
   - '.huajianmed.com'
   - '.huajiao.com'
   - '.huajie8.com'
+  - '.huajifen.com'
   - '.huajin100.com'
   - '.huajing-inf.com'
   - '.huajingsec.com'
@@ -47064,6 +47065,7 @@ payload:
   - '.qhlingwang.com'
   - '.qhlly.com'
   - '.qhm123.com'
+  - '.qhmanhua.com'
   - '.qhmhbkj.com'
   - '.qhmsg.com'
   - '.qhnews.com'
@@ -47630,6 +47632,7 @@ payload:
   - '.qixiwl.com'
   - '.qixoo.com'
   - '.qixunka.com'
+  - '.qiyabi.vip'
   - '.qiye.la'
   - '.qiye.net'
   - '.qiye163.com'
@@ -53518,6 +53521,7 @@ payload:
   - '.sursenelec.com'
   - '.sursung.com'
   - '.surtime.com'
+  - '.suruicloud.com'
   - '.survey-y.com'
   - '.surveyhills.com'
   - '.surveyunion.com'
@@ -60326,6 +60330,7 @@ payload:
   - '.wlstock.com'
   - '.wlsvt.com'
   - '.wltieyaoban.com'
+  - '.wlxit.com'
   - '.wlxmall.com'
   - '.wlxww.com'
   - '.wlyfw.com'
@@ -66174,6 +66179,7 @@ payload:
   - '.yswh.com'
   - '.yswhy.com'
   - '.yswlgame.com'
+  - '.yswliot.com'
   - '.yswpq.com'
   - '.yswxcn.com'
   - '.ysx8.com'
