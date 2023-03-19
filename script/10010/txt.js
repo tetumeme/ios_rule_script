@@ -12,7 +12,7 @@
  
 [rewrite_local]
 
-# ～ 傲软抠图解锁会员权限（2023-03-19）@ddgksf2013
+# ～ 傲软磨题帮会员（2023-03-19）@ddgksf2013
 https://motibang.com:8001/api/1/ url script-response-body apowersoft.js
 
 [mitm] 
